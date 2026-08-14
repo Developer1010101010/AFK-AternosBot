@@ -1,7 +1,7 @@
 {
-    "host": "name.aternos.me",
-    "port": "99999",
+    "host": "servtop.aternos.me",
+    "port": "43001",
     "username": "MinecraftBot",
-    "edition": "java",
+    "edition": "bedrock",
     "javaVersion": "1.21.11"
 }
